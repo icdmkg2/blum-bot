@@ -1,0 +1,7 @@
+pyautogui
+pygetwindow
+pynput
+keyboard
+sv-ttk
+pywinstyles
+darkdetect
