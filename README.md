@@ -1,7 +1,7 @@
 ## Blum Bot
  
 ### Overview
-This bot is designed to automate various tasks in a Telegram mini-app BlumBot. It handles everything from playing drop games, claiming referral balances, starting missions, and claiming mission balances once they are completed.
+This bot is designed to automate clicking the minigame in the Telegram mini-app BlumBot.
 ### Download
 [Click Me!](https://github.com/icdmkg2/blum-bot/releases/tag/Releases)
 ### Features
